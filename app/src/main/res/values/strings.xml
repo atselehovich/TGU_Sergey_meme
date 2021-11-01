@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MemeView</string>
+    <string name="meme_info_name">Name</string>
+    <string name="meme_info_description">Description</string>
+    <string name="api_base_url">https://raw.githubusercontent.com/gutmann-/files/main/</string>
+
+    <string name="prompt_info_title">App Authentication</string>
+    <string name="prompt_info_subtitle">Please login to get access</string>
+    <string name="prompt_info_description">App is using Android biometric authentication</string>
+    <string name="prompt_info_use_app_password">Use app password (not implemented yet)</string>
+</resources>
